@@ -1,6 +1,27 @@
 ### Hi there 👋
 
-:link:
+
+
+
+🌱 I’m currently learning everything I can about The Microsoft Power Platform as wellas Azure functions
+
+🔭 I’m currently working at HybrIT Services (www.HybrIT.co.uk) as a Microsoft Power Platform Consultant 
+
+💬 Ask me about anything you like but hopefully just the Power Platform 
+
+⚡ Fun fact: I spent 21 years as a HR Specialist in the UK Royal Air Force working in severeal countries and completing 4 Operational Tours
+
+
+
+
+📫 How to reach me:
+
+:link: https:lewis-carr.com
+
+:link: www.powerplatformlewis.com
+
+:email: lewiscarr.business@gmail.com
+
 
 <!--
 **ljcarr/ljcarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
