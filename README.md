@@ -3,7 +3,7 @@
 
 
 
-🌱 I’m currently learning everything I can about The Microsoft Power Platform as wellas Azure functions
+🌱 I’m currently learning everything I can about The Microsoft Power Platform as well as Azure functions
 
 🔭 I’m currently working at HybrIT Services (www.HybrIT.co.uk) as a Microsoft Power Platform Consultant 
 
