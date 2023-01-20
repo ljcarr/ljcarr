@@ -16,8 +16,6 @@
 
 📫 How to reach me:
 
-:link: https:lewis-carr.com
-
 :link: www.powerplatformlewis.com
 
 :email: lewiscarr.business@gmail.com
