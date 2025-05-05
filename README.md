@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning everything I can about The Microsoft Power Platform as well as Azure functions
 
-🔭 I’m currently working as a Lead in Enterprise BUsiness Applications at Buckeye Partners L.P. (www.buckeye.com) as a Microsoft Power Platform Consultant 
+🔭 I’m currently working as a Lead in Enterprise BUsiness Applications at [Buckeye Partners L.P.](www.buckeye.com) as a Microsoft Power Platform Consultant 
 
 💬 Ask me about anything you like but hopefully just the Power Platform 
 
